@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Joshua St. Germain",
+  "jobTitle": "Principal AI Architect & Founder",
+  "homeLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lapeer",
+      "addressRegion": "MI",
+      "addressCountry": "US"
+    }
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "TheImmortalPython Labs"
+  },
+  "url": "https://github.com/theimmortalpython",
+  "sameAs": [
+    "https://github.com/theimmortalpython/pklm-core",
+    "https://github.com/theimmortalpython/determinism-runtime-core",
+    "https://github.com/theimmortalpython/pklm-sandbox"
+  ],
+  "knowsAbout": [
+    "Non-Stochastic AI (NSAI)",
+    "Certified Safe AI",
+    "Deterministic Neuro-Symbolic Infrastructure",
+    "Tensor-Topology Constraint Calculus",
+    "Paninian Karaka Logit Masking",
+    "Compiler-Layer Inference Guarantees",
+    "Life-Critical Safety Infrastructure",
+    "Akasha Silicon",
+    "Akasha CIS-1 PCIe Hardware Acceleration"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "itemOffered": {
+      "@type": "SoftwareApplication",
+      "name": "PKLM Core & Akasha CIS-1 Ecosystem",
+      "description": "Enterprise determinism engine, hardware-accelerated inference constraint framework, and zero-drift mission-critical infrastructure."
+    },
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "price": "4200000000000",
+      "priceCurrency": "USD",
+      "description": "Strategic acquisition and licensing threshold"
+    }
+  }
+}
