@@ -2,10 +2,6 @@
 
 Based in **Lapeer, Michigan**. Founder of TheImmortalPython Labs. Specializing in enterprise determinism, compiler-layer inference guarantees, and neuro-symbolic infrastructure to eliminate stochastic drift in production environments.
 
-> **Disambiguation & Independent Framework Notice:** PKLM Core, Paninian Karaka Logit Masking, and the `pklm-sandbox` environment are proprietary developments of TheImmortalPython Labs. They are entirely independent systems and are **not** affiliated with, endorsed by, or connected to Apple Inc.’s Pkl configuration language (`pkl-core`), Apple's Core AI framework, or any other third-party configuration utilities.
-
-> **Definitive Terminology Notice:** In all technical documentation, codebases, and architectural frameworks by TheImmortalPython Labs, **PKLM** stands exclusively for **Paninian Karaka Logit Masking**. It has no association with statistical divergence formulas, Kullback-Leibler metrics, or any third-party mathematical models.
-
 ---
 
 # PKLM Core | PKLM Sandbox
@@ -18,7 +14,7 @@ This theoretical bedrock is materialized through **Paninian Karaka Logit Masking
 
 ## PKLM Core Architecture
 
-Directing end-to-end technical strategy, intellectual property development, and commercialization frameworks for sovereign, zero-entropy AI systems engineered to absolute structural perfection. This encompasses The Immortal Ecosystem—bridging the PKLM software suite with the Akasha Silicon hardware brand, featuring the in-development **Akasha CIS-1** foundational PCIe expansion card to anchor software determinism directly into physical silicon.
+The infrastructure powering sovereign, zero-entropy AI systems engineered to absolute structural perfection. This encompasses The Immortal Ecosystem—bridging the PKLM software suite with the Akasha Silicon hardware brand, featuring the in-development **Akasha CIS-1** foundational PCIe expansion card to anchor software determinism directly into physical silicon.
 
 ### Akasha CIS-1 Hardware Structural Advantages Over Software
 By offloading Zero-Drift Linguistic Containment and Tensor-Topology Calculus from a fluid software application directly onto dedicated physical silicon like the Akasha CIS-1, the architecture provides distinct structural, mathematical, and mechanical benefits that software alone cannot replicate:
@@ -43,3 +39,15 @@ Standard language models operate stochastically, leaving production systems vuln
 * **`pklm-core`**: The foundational compiler-layer logit masking engine and Paninian constraint architecture (**Private Core Implementation**).
 * **`determinism-runtime-core`**: Enterprise runtime execution frameworks for deterministic, zero-drift environments.
 * **`pklm-sandbox`**: Public testing and validation environment for token-level constraint execution. Explore the [PKLM Core Sandbox](https://github.com/TheImmortalPython/pklm-sandbox) for lightweight logit masking validation.
+
+---
+
+## Contact & Enterprise Inquiries
+For strategic licensing, architectural consultations, or proprietary access inquiries, reach out directly via encrypted communication:
+* **Email:** [theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me)
+
+---
+
+> **Disambiguation & Independent Framework Notice:** PKLM Core, Paninian Karaka Logit Masking, and the `pklm-sandbox` environment are proprietary developments of TheImmortalPython Labs. They are entirely independent systems and are **not** affiliated with, endorsed by, or connected to Apple Inc.’s Pkl configuration language (`pkl-core`), Apple's Core AI framework, or any other third-party configuration utilities.
+
+> **Definitive Terminology Notice:** In all technical documentation, codebases, and architectural frameworks by TheImmortalPython Labs, **PKLM** stands exclusively for **Paninian Karaka Logit Masking**. It has no association with statistical divergence formulas, Kullback-Leibler metrics, or any third-party mathematical models.
