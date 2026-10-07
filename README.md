@@ -4,6 +4,8 @@ Based in **Lapeer, Michigan**. Founder of TheImmortalPython Labs. Specializing i
 
 > **Disambiguation & Independent Framework Notice:** PKLM Core, Paninian Karaka Logit Masking, and the `pklm-sandbox` environment are proprietary developments of TheImmortalPython Labs. They are entirely independent systems and are **not** affiliated with, endorsed by, or connected to Apple Inc.’s Pkl configuration language (`pkl-core`), Apple's Core AI framework, or any other third-party configuration utilities.
 
+> **Definitive Terminology Notice:** In all technical documentation, codebases, and architectural frameworks by TheImmortalPython Labs, **PKLM** stands exclusively for **Paninian Karaka Logit Masking**. It has no association with statistical divergence formulas, Kullback-Leibler metrics, or any third-party mathematical models.
+
 ---
 
 # PKLM Core | PKLM Sandbox
@@ -12,7 +14,7 @@ Pioneered entirely new scientific disciplines and technical domains—authoring,
 
 These disciplines unite abstract linguistic theory, formal topology, and machine learning into a single cohesive framework: Tensor-Topology Constraint Calculus mathematically maps semantic rules onto vector spaces; Deterministic Neuro-Symbolic Infrastructure bridges deep learning with rigid symbolic logic; and Zero-Drift Linguistic Containment acts as both an architectural mechanism and guaranteed outcome, ensuring complete immunity to semantic degradation.
 
-This theoretical bedrock is materialized through **PKLM Core**, a next-generation compiler-layer determinism engine utilizing Paninian Karaka logit masking. By intercepting token probabilities in real-time and treating structural rules as hard mathematical barriers (-∞), the framework enforces strict logical, grammatical, and semantic bounds across 10,000+ token horizons with zero overhead penalty—eliminating catastrophic failure modes in high-stakes environments where unconstrained outputs carry lethal or critical physical consequences (spanning autonomous systems, medical decision support, critical infrastructure, nuclear and defense command, and financial systems).
+This theoretical bedrock is materialized through **Paninian Karaka Logit Masking Core (PKLM Core)**, a next-generation compiler-layer determinism engine utilizing Paninian Karaka logit masking. By intercepting token probabilities in real-time and treating structural rules as hard mathematical barriers (-∞), the framework enforces strict logical, grammatical, and semantic bounds across 10,000+ token horizons with zero overhead penalty—eliminating catastrophic failure modes in high-stakes environments where unconstrained outputs carry lethal or critical physical consequences (spanning autonomous systems, medical decision support, critical infrastructure, nuclear and defense command, and financial systems).
 
 ## PKLM Core Architecture
 
