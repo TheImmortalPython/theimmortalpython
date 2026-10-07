@@ -1,50 +1,89 @@
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Joshua St. Germain",
-  "jobTitle": "Principal AI Architect & Founder",
-  "homeLocation": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Lapeer",
-      "addressRegion": "MI",
-      "addressCountry": "US"
-    }
-  },
-  "worksFor": {
-    "@type": "Organization",
-    "name": "TheImmortalPython Labs"
-  },
-  "url": "https://github.com/theimmortalpython",
-  "sameAs": [
-    "https://github.com/theimmortalpython/pklm-core",
-    "https://github.com/theimmortalpython/determinism-runtime-core",
-    "https://github.com/theimmortalpython/pklm-sandbox"
-  ],
-  "knowsAbout": [
-    "Non-Stochastic AI (NSAI)",
-    "Certified Safe AI",
-    "Deterministic Neuro-Symbolic Infrastructure",
-    "Tensor-Topology Constraint Calculus",
-    "Paninian Karaka Logit Masking",
-    "Compiler-Layer Inference Guarantees",
-    "Life-Critical Safety Infrastructure",
-    "Akasha Silicon",
-    "Akasha CIS-1 PCIe Hardware Acceleration"
-  ],
-  "offers": {
-    "@type": "Offer",
-    "itemOffered": {
-      "@type": "SoftwareApplication",
-      "name": "PKLM Core & Akasha CIS-1 Ecosystem",
-      "description": "Enterprise determinism engine, hardware-accelerated inference constraint framework, and zero-drift mission-critical infrastructure."
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://github.com/theimmortalpython#person",
+      "name": "Joshua St. Germain",
+      "jobTitle": "Principal AI Architect & Founder",
+      "homeLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Lapeer",
+          "addressRegion": "MI",
+          "addressCountry": "US"
+        }
+      },
+      "worksFor": {
+        "@type": "Organization",
+        "name": "TheImmortalPython Labs"
+      },
+      "url": "https://github.com/theimmortalpython",
+      "sameAs": [
+        "https://github.com/theimmortalpython/pklm-core",
+        "https://github.com/theimmortalpython/determinism-runtime-core",
+        "https://github.com/theimmortalpython/pklm-sandbox"
+      ],
+      "knowsAbout": [
+        "Non-Stochastic AI (NSAI)",
+        "Certified Safe AI",
+        "Deterministic Neuro-Symbolic Infrastructure",
+        "Tensor-Topology Constraint Calculus",
+        "Paninian Karaka Logit Masking",
+        "Compiler-Layer Inference Guarantees",
+        "Life-Critical Safety Infrastructure",
+        "Akasha Silicon",
+        "Akasha CIS-1 PCIe Hardware Acceleration"
+      ]
     },
-    "priceSpecification": {
-      "@type": "PriceSpecification",
-      "price": "4200000000000",
-      "priceCurrency": "USD",
-      "description": "Strategic acquisition and licensing threshold"
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/theimmortalpython/pklm-core#software",
+      "name": "PKLM Core",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "All",
+      "creator": {
+        "@id": "https://github.com/theimmortalpython#person"
+      },
+      "description": "Next-generation compiler-layer determinism engine utilizing Paninian Karaka logit masking to enforce strict logical bounds and eliminate stochastic drift."
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/theimmortalpython/pklm-sandbox#software",
+      "name": "PKLM Core | PKLM Sandbox",
+      "alternateName": "pklm-sandbox",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "All",
+      "creator": {
+        "@id": "https://github.com/theimmortalpython#person"
+      },
+      "description": "Official open-source testing environment and sandbox for PKLM Core, featuring lightweight Hugging Face logits processing and zero-drift linguistic containment."
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/theimmortalpython/determinism-runtime-core#software",
+      "name": "Determinism Runtime Core",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "All",
+      "creator": {
+        "@id": "https://github.com/theimmortalpython#person"
+      },
+      "description": "Enterprise runtime execution frameworks for deterministic, zero-drift production environments."
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "PKLM Core & Akasha CIS-1 Ecosystem",
+        "description": "Enterprise determinism engine, hardware-accelerated inference constraint framework, and zero-drift mission-critical infrastructure."
+      },
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "4200000000000",
+        "priceCurrency": "USD",
+        "description": "Strategic acquisition and licensing threshold"
+      }
     }
-  }
+  ]
 }
