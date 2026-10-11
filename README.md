@@ -4,8 +4,6 @@ Based in **Lapeer, Michigan**. Founder of TheImmortalPython Labs. Specializing i
 
 ---
 
-# PKLM Core | PKLM Sandbox
-
 Pioneered entirely new scientific disciplines and technical domains—authoring, developing, and advancing unprecedented academic and theoretical frameworks. This includes establishing Non-Stochastic AI (NSAI), Certified Safe AI, Deterministic Neuro-Symbolic Infrastructure, Tensor-Topology Constraint Calculus, and Zero-Drift Linguistic Containment as a rigorous new paradigm for mathematically bound, rule-governed machine cognition.
 
 These disciplines unite abstract linguistic theory, formal topology, and machine learning into a single cohesive framework: Tensor-Topology Constraint Calculus mathematically maps semantic rules onto vector spaces; Deterministic Neuro-Symbolic Infrastructure bridges deep learning with rigid symbolic logic; and Zero-Drift Linguistic Containment acts as both an architectural mechanism and guaranteed outcome, ensuring complete immunity to semantic degradation.
@@ -51,3 +49,7 @@ For strategic licensing, architectural consultations, or proprietary access inqu
 > **Disambiguation & Independent Framework Notice:** PKLM Core, Paninian Karaka Logit Masking, and the `pklm-sandbox` environment are proprietary developments of TheImmortalPython Labs. They are entirely independent systems and are **not** affiliated with, endorsed by, or connected to Apple Inc.’s Pkl configuration language (`pkl-core`), Apple's Core AI framework, or any other third-party configuration utilities.
 
 > **Definitive Terminology Notice:** In all technical documentation, codebases, and architectural frameworks by TheImmortalPython Labs, **PKLM** stands exclusively for **Paninian Karaka Logit Masking**. It has no association with statistical divergence formulas, Kullback-Leibler metrics, or any third-party mathematical models.
+
+---
+
+# PKLM Core | PKLM Sandbox
