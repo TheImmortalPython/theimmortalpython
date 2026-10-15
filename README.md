@@ -19,8 +19,8 @@ While generative AI promised a revolution in video games through living worlds a
 
 By intercepting token probabilities at step t and mathematically stripping out any vocabulary that violates game rules or narrative constraints, the architecture unlocks true persistent memory and zero-drift worlds:
 - **Persistent Physical Memory:** Vectorized engine telemetry and persistent world-state ledgers bind directly to temporal repair schedules, allowing NPC dialogue tokens to mathematically reflect ongoing structural damage and environmental recovery.
-- **Seamless Identity Integration:** Player identity variables map directly into grammatical structures via Paninian dependency parsing, forcing dynamic names and online handles to fit fluidly into musical meter or atmospheric dialogue without breaking syntax.
 - **Non-Linear Material Resonance:** Continuous spatial stress telemetry binds to dependency lattices to track cumulative structural fatigue over weeks of unscripted gameplay, triggering realistic systemic failures and permanent world ruins.
+- **Seamless Identity Integration:** Player identity variables map directly into grammatical structures via Paninian dependency parsing, forcing dynamic names and online handles to fit fluidly into musical meter or atmospheric dialogue without breaking syntax.
 
 ### Akasha CIS-1 Hardware Structural Advantages Over Software
 By offloading Zero-Drift Linguistic Containment and Tensor-Topology Calculus from a fluid software application directly onto dedicated physical silicon like the Akasha CIS-1, the architecture provides distinct structural, mathematical, and mechanical benefits that software alone cannot replicate:
