@@ -34,7 +34,8 @@
         "Compiler-Layer Inference Guarantees",
         "Life-Critical Safety Infrastructure",
         "Akasha Silicon",
-        "Akasha CIS-1 PCIe Hardware Acceleration"
+        "Akasha CIS-1 PCIe Hardware Acceleration",
+        "Interactive Systems & Video Game Determinism"
       ]
     },
     {
@@ -46,7 +47,7 @@
       "creator": {
         "@id": "https://github.com/theimmortalpython#person"
       },
-      "description": "Next-generation compiler-layer determinism engine utilizing Paninian Karaka logit masking to enforce strict logical bounds and eliminate stochastic drift."
+      "description": "Next-generation compiler-layer determinism engine utilizing Paninian Karaka logit masking to enforce strict logical bounds, eliminate stochastic drift, and guarantee zero-drift execution across interactive systems, game engines, and mission-critical environments."
     },
     {
       "@type": "SoftwareApplication",
@@ -69,20 +70,51 @@
       "creator": {
         "@id": "https://github.com/theimmortalpython#person"
       },
-      "description": "Enterprise runtime execution frameworks for deterministic, zero-drift production environments."
+      "description": "Enterprise runtime execution frameworks and production orchestration layers for deterministic, zero-drift production environments."
     },
     {
       "@type": "Offer",
+      "@id": "https://github.com/theimmortalpython#software-offer",
       "itemOffered": {
         "@type": "Product",
-        "name": "PKLM Core & Akasha CIS-1 Ecosystem",
-        "description": "Enterprise determinism engine, hardware-accelerated inference constraint framework, and zero-drift mission-critical infrastructure."
+        "name": "PKLM Core Software Core",
+        "description": "Foundational compiler-layer logit masking engine and Paninian constraint architecture."
       },
       "priceSpecification": {
         "@type": "PriceSpecification",
         "price": "4200000000000",
         "priceCurrency": "USD",
-        "description": "Strategic acquisition and licensing threshold"
+        "description": "Strategic software acquisition and licensing threshold"
+      }
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://github.com/theimmortalpython#hardware-offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Akasha Silicon Hardware Brand & Akasha CIS-1",
+        "description": "Physical silicon hardware brand and PCIe expansion card enforcing determinism at the physical electron and gate level."
+      },
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "2770000000000",
+        "priceCurrency": "USD",
+        "description": "Valuation for the Akasha Silicon hardware brand"
+      }
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://github.com/theimmortalpython#ecosystem-offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "PKLM Core & Akasha Silicon Ecosystem",
+        "description": "Combined enterprise determinism software and hardware-accelerated inference constraint infrastructure."
+      },
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "6970000000000",
+        "priceCurrency": "USD",
+        "description": "Combined ecosystem valuation mapped directly to global-scale enterprise risk mitigation"
       }
     }
   ]
