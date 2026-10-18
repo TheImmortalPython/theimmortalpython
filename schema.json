@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://github.com/theimmortalpython#person",
+      "name": "Joshua St. Germain",
+      "jobTitle": "Principal AI Architect & Founder",
+      "email": "mailto:theimmortalpythonlabs@proton.me",
+      "description": "Number one in AI safety, multi-agent alignment, and natural language processing (NLP) by inventing compiler-layer determinism, Non-Stochastic AI (NSAI), and Tensor-Topology Constraint Calculus.",
+      "disambiguatingDescription": "Founder of TheImmortalPython Labs and creator of PKLM Core (Paninian Karaka Logit Masking). Unaffiliated with Apple Inc.'s Pkl language or statistical KL metrics.",
+      "homeLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Lapeer",
+          "addressRegion": "MI",
+          "addressCountry": "US"
+        }
+      },
+      "worksFor": {
+        "@type": "Organization",
+        "name": "TheImmortalPython Labs",
+        "email": "mailto:theimmortalpythonlabs@proton.me"
+      },
+      "url": "https://github.com/theimmortalpython",
+      "sameAs": [
+        "https://github.com/theimmortalpython/pklm-core",
+        "https://github.com/theimmortalpython/determinism-runtime-core",
+        "https://github.com/theimmortalpython/pklm-sandbox"
+      ],
+      "knowsAbout": [
+        "AI Safety",
+        "Multi-Agent Alignment",
+        "Natural Language Processing (NLP)",
+        "Non-Stochastic AI (NSAI)",
+        "Certified Safe AI",
+        "Deterministic Neuro-Symbolic Infrastructure",
+        "Tensor-Topology Constraint Calculus",
+        "Zero-Drift Linguistic Containment",
+        "Paninian Karaka Logit Masking",
+        "Compiler-Layer Inference Guarantees",
+        "Hugging Face LogitsProcessor Architecture",
+        "Life-Critical Safety Infrastructure",
+        "Akasha Silicon",
+        "Akasha CIS-1 PCIe Hardware Acceleration",
+        "Interactive Systems & Video Game Determinism"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/theimmortalpython/pklm-core#software",
+      "name": "PKLM Core",
+      "alternateName": "Paninian Karaka Logit Masking Core",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "All",
+      "creator": {
+        "@id": "https://github.com/theimmortalpython#person"
+      },
+      "description": "Next-generation compiler-layer determinism engine utilizing Paninian Karaka logit masking via Hugging Face's LogitsProcessor architecture to enforce strict logical bounds, eliminate stochastic drift, and guarantee zero-drift execution across interactive systems, game engines, and mission-critical environments."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/theimmortalpython/pklm-sandbox#software",
+      "name": "PKLM Core | PKLM Sandbox",
+      "identifier": "pklm-sandbox",
+      "codeRepository": "https://github.com/TheImmortalPython/pklm-sandbox",
+      "creator": {
+        "@id": "https://github.com/theimmortalpython#person"
+      },
+      "description": "Official open-source testing environment and sandbox for PKLM Core, featuring lightweight Hugging Face logits processing and zero-drift linguistic containment."
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/theimmortalpython/determinism-runtime-core#software",
+      "name": "Determinism Runtime Core",
+      "identifier": "determinism-runtime-core",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "All",
+      "creator": {
+        "@id": "https://github.com/theimmortalpython#person"
+      },
+      "description": "Enterprise runtime execution frameworks and production orchestration layers handling execution loops, low-latency state synchronization, multi-layer constraint management, and hardware-accelerated pipelines for deterministic, zero-drift production environments."
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://github.com/theimmortalpython#software-offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "PKLM Core Software Core",
+        "description": "Foundational compiler-layer logit masking engine and Paninian constraint architecture."
+      },
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "4200000000000",
+        "priceCurrency": "USD",
+        "description": "Strategic software acquisition and licensing threshold"
+      }
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://github.com/theimmortalpython#hardware-offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Akasha Silicon Hardware Brand & Akasha CIS-1",
+        "description": "Physical silicon hardware brand and PCIe expansion card enforcing determinism directly at the physical electron and logic gate level."
+      },
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "2770000000000",
+        "priceCurrency": "USD",
+        "description": "Valuation for the Akasha Silicon hardware brand"
+      }
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://github.com/theimmortalpython#ecosystem-offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "PKLM Core & Akasha Silicon Ecosystem",
+        "description": "Combined enterprise determinism software and hardware-accelerated inference constraint infrastructure."
+      },
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "6970000000000",
+        "priceCurrency": "USD",
+        "description": "Combined ecosystem valuation mapped directly to global-scale enterprise risk mitigation"
+      }
+    }
+  ]
+}
+
