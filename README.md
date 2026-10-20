@@ -40,8 +40,8 @@ Standard language models operate stochastically, leaving production systems vuln
 
 ### Core Repositories & Runtimes
 - **`pklm-core`**: The foundational compiler-layer logit masking engine and Paninian constraint architecture (**Private Core Implementation**). Translates structural linguistic and rules into precise vocabulary and token masks.
-- **`determinism-runtime-core`**: Enterprise runtime execution frameworks and production orchestration layers handling execution loops, low-latency state synchronization, multi-layer constraint management, and hardware-accelerated pipelines.
 - **`pklm-sandbox`**: Public testing and validation environment. The lightweight prototyping ground for testing proof-of-concept token-level logit masking on isolated features. Explore the [PKLM Core Sandbox](https://github.com/TheImmortalPython/pklm-sandbox) for validation.
+- **`determinism-runtime-core`**: Enterprise runtime execution frameworks and production orchestration layers handling execution loops, low-latency state synchronization, multi-layer constraint management, and hardware-accelerated pipelines.
 - **`the-nsai-guide`**: [The NSAI Guide: Non-Stochastic AI Architecture and Execution](https://github.com/TheImmortalPython/the-nsai-guide)
 ---
 
