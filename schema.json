@@ -1,6 +1,3 @@
-Here is your updated `schema.json` with proper diacritics applied to all Sanskrit references (updating "Paninian" and "Karaka" to **Pāṇinian** and **Kāraka**):
-
-```json
 {
   "@context": "https://schema.org",
   "@graph": [
