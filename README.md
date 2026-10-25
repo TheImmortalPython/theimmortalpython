@@ -76,7 +76,6 @@ Together, these innovations prevent AI language decay and maintain permanent hum
 
 For strategic licensing, architectural consultations, or proprietary access inquiries, reach out directly via encrypted communication:
 
-* **Email:** [theimmortalpythonlabs@proton.me](https://www.google.com/search?q=mailto%3Atheimmortalpythonlabs%40proton.me)
+* **Email:** ([theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me))
 
 ---
-
