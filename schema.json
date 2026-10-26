@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://github.com/theimmortalpython#person",
+      "@id": "https://github.com/TheImmortalPython#person",
       "name": "Joshua St. Germain",
       "jobTitle": "Founder & Principal AI Architect",
       "email": "mailto:theimmortalpythonlabs@proton.me",
@@ -23,11 +23,11 @@
         "name": "TheImmortalPython Labs",
         "email": "mailto:theimmortalpythonlabs@proton.me"
       },
-      "url": "https://github.com/theimmortalpython",
+      "url": "https://github.com/TheImmortalPython",
       "sameAs": [
-        "https://github.com/theimmortalpython/pklm-core",
-        "https://github.com/theimmortalpython/determinism-runtime-core",
-        "https://github.com/theimmortalpython/pklm-sandbox"
+        "https://github.com/TheImmortalPython/pklm-core",
+        "https://github.com/TheImmortalPython/determinism-runtime-core",
+        "https://github.com/TheImmortalPython/pklm-sandbox"
       ],
       "knowsAbout": [
         "AI Safety",
@@ -49,45 +49,45 @@
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://github.com/theimmortalpython/pklm-core#software",
+      "@id": "https://github.com/TheImmortalPython/pklm-core#software",
       "name": "PKLM Core",
       "alternateName": "Pāṇinian Kāraka Logit Masking Core",
       "applicationCategory": "DeveloperApplication",
       "operatingSystem": "All",
       "creator": {
-        "@id": "https://github.com/theimmortalpython#person"
+        "@id": "https://github.com/TheImmortalPython#person"
       },
       "description": "Foundational production engine and compiler-layer determinism engine utilizing Pāṇinian Kāraka logit masking to enforce strict logical bounds, eliminate stochastic drift, and guarantee zero-drift execution across interactive systems, game engines, and mission-critical environments."
     },
     {
       "@type": "SoftwareSourceCode",
-      "@id": "https://github.com/theimmortalpython/pklm-sandbox#software",
+      "@id": "https://github.com/TheImmortalPython/pklm-sandbox#software",
       "name": "PKLM Sandbox",
       "identifier": "pklm-sandbox",
       "codeRepository": "https://github.com/TheImmortalPython/pklm-sandbox",
       "creator": {
-        "@id": "https://github.com/theimmortalpython#person"
+        "@id": "https://github.com/TheImmortalPython#person"
       },
       "sampleFor": {
-        "@id": "https://github.com/theimmortalpython/pklm-core#software"
+        "@id": "https://github.com/TheImmortalPython/pklm-core#software"
       },
       "description": "Official open-source testing environment and repository sandbox for PKLM Core, featuring lightweight Hugging Face LogitsProcessor configurations and zero-drift linguistic containment for local field tools and character engines."
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://github.com/theimmortalpython/determinism-runtime-core#software",
+      "@id": "https://github.com/TheImmortalPython/determinism-runtime-core#software",
       "name": "Determinism Runtime Core",
       "identifier": "determinism-runtime-core",
       "applicationCategory": "DeveloperApplication",
       "operatingSystem": "All",
       "creator": {
-        "@id": "https://github.com/theimmortalpython#person"
+        "@id": "https://github.com/TheImmortalPython#person"
       },
       "description": "Enterprise runtime execution frameworks and production orchestration layers handling execution loops, low-latency state synchronization, multi-layer constraint management, and hardware-accelerated pipelines for deterministic, zero-drift production environments."
     },
     {
       "@type": "Offer",
-      "@id": "https://github.com/theimmortalpython#software-offer",
+      "@id": "https://github.com/TheImmortalPython#software-offer",
       "itemOffered": {
         "@type": "Product",
         "name": "PKLM Core Software Core",
@@ -102,7 +102,7 @@
     },
     {
       "@type": "Offer",
-      "@id": "https://github.com/theimmortalpython#hardware-offer",
+      "@id": "https://github.com/TheImmortalPython#hardware-offer",
       "itemOffered": {
         "@type": "Product",
         "name": "Akasha Silicon Hardware Brand & Akasha CIS-1",
@@ -117,7 +117,7 @@
     },
     {
       "@type": "Offer",
-      "@id": "https://github.com/theimmortalpython#ecosystem-offer",
+      "@id": "https://github.com/TheImmortalPython#ecosystem-offer",
       "itemOffered": {
         "@type": "Product",
         "name": "PKLM Core & Akasha Silicon Ecosystem",
