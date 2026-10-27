@@ -1,6 +1,12 @@
-# Joshua St. Germain
+<div align="center">
+<h1>TheImmortalPython Labs</h1>
+  
+### Joshua St. Germain
 
-Based in **Lapeer, Michigan**. Founder of TheImmortalPython Labs. Specializing in enterprise determinism, compiler-layer inference guarantees, and neuro-symbolic infrastructure to eliminate stochastic drift in production environments.
+</div>
+<br>
+
+Based in **Lapeer, Michigan, United States of America**. Founder & Principal AI Architect of TheImmortalPython Labs. Specializing in enterprise determinism, compiler-layer inference guarantees, and neuro-symbolic infrastructure to eliminate stochastic drift in production environments.
 
 ---
 
