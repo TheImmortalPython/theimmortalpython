@@ -80,8 +80,10 @@ Together, these innovations prevent AI language decay and maintain permanent hum
 
 ## Contact & Enterprise Inquiries
 
-For strategic licensing, architectural consultations, or proprietary access inquiries, reach out directly via encrypted communication:
+For commercial licensing, self-service intellectual property acquisitions, or proprietary technology buyout inquiries, reach out directly via encrypted communication:
 
-- **Email:** [theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me)
+- **Enterprise & Commercial Licensing:** [theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me)
+
+*Note: TheImmortalPython Labs operates strictly on a self-service intellectual property and software licensing framework. All technology acquisitions and commercial waivers are provided on an as-is basis and do not include custom consulting, support SLAs, or managed services.*
 
 ---
