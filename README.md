@@ -14,21 +14,7 @@ Pioneered entirely new scientific disciplines and technical domains—authoring,
 
 These disciplines unite abstract linguistic theory, formal topology, and machine learning into a single cohesive framework: Tensor-Topology Constraint Calculus mathematically maps semantic rules onto vector spaces; Deterministic Neuro-Symbolic Infrastructure bridges deep learning with rigid symbolic logic; and Zero-Drift Linguistic Containment acts as both an architectural mechanism and guaranteed outcome, ensuring complete immunity to semantic degradation.
 
-This theoretical bedrock is materialized through the Pāṇinian Kāraka Logit Masking Core (`pklm-core`), acting as the real-time Interception Core utilizing Pāṇinian Kāraka logit masking. By intercepting token probabilities in real-time and treating structural rules as hard mathematical barriers (-∞), the framework enforces strict logical, grammatical, and semantic bounds across arbitrarily scaling token horizons (proven across 10,000+ token sequences) with zero overhead penalty—eliminating catastrophic failure modes in high-stakes environments where unconstrained outputs carry lethal or critical physical consequences (spanning autonomous systems, interactive game engines, medical decision support, critical infrastructure, nuclear and defense command, and financial systems).
-
-## PKLM Core Architecture
-
-The infrastructure powering sovereign, zero-entropy AI systems engineered to absolute structural perfection. This encompasses The Immortal Ecosystem—bridging the PKLM software suite with the Akasha Silicon hardware brand, featuring the in-development **Akasha CIS-1** foundational PCIe expansion card to anchor software determinism directly into physical silicon.
-
-### PKLM Core in Interactive Systems & Video Games
-
-While generative AI promised a revolution in video games through living worlds and dynamic dialogue, standard LLMs introduce major production liabilities: unconstrained outputs introduce impossible math states in dynamic engine ledgers, break underlying game logic, or shatter immersion via anachronistic slang. PKLM Core solves this bottleneck by shifting from post-generation filtering to real-time control at the logit level using Pāṇinian Kāraka dependency lattices.
-
-By intercepting token probabilities at step *t* and mathematically stripping out any vocabulary that violates game rules or narrative constraints, the architecture unlocks true persistent memory and zero-drift worlds:
-
-* **Persistent Physical Memory:** Vectorized engine telemetry and persistent world-state ledgers bind directly to temporal repair schedules, allowing NPC dialogue tokens to mathematically reflect ongoing structural damage and environmental recovery.
-* **Non-Linear Material Resonance:** Continuous spatial stress telemetry binds to dependency lattices to track cumulative structural fatigue over weeks of unscripted gameplay, triggering realistic systemic failures and permanent world ruins.
-* **Seamless Identity Integration:** Player identity variables map directly into grammatical structures via Pāṇinian dependency parsing, forcing dynamic names and online handles to fit fluidly into musical meter or atmospheric dialogue without breaking syntax.
+This theoretical bedrock is materialized through `immortal-inference`, acting as the real-time Interception Core utilizing Pāṇinian Kāraka logit masking. By intercepting token probabilities in real-time and treating structural rules as hard mathematical barriers (-∞), the framework enforces strict logical, grammatical, and semantic bounds across arbitrarily scaling token horizons (proven across 10,000+ token sequences) with zero overhead penalty—eliminating catastrophic failure modes in high-stakes environments where unconstrained outputs carry lethal or critical physical consequences (spanning autonomous systems, interactive game engines, medical decision support, critical infrastructure, nuclear and defense command, and financial systems).
 
 ### Akasha CIS-1 Hardware Structural Advantages Over Software
 
@@ -39,19 +25,17 @@ By offloading Zero-Drift Linguistic Containment and Tensor-Topology Calculus fro
 * **Compute Efficiency & Performance Scaling:** Eliminates CPU/GPU overhead penalties by freeing 100% of host processing power, delivers instantaneous logit transformations at the speed of electrical signals through specialized logic gates, provides hardware-accelerated infinity scaling via parallel execution lines for tensor math, and guarantees deterministic execution times across uniform clock cycles.
 * **Architectural & Engineering Integrity:** Achieves true mathematical non-stochasticity bound to static logical gates at the physical electron level, ensures complete host environment independence across OS versions and dependencies, and maintains un-bypassable data routing that cannot be unlinked or omitted in cloud configuration files.
 
-*Note: PKLM Core strategic acquisition and licensing threshold is set at $4.2 trillion for the software core, paired with a $2.77 trillion valuation for the Akasha Silicon hardware brand, bringing the combined ecosystem valuation to $6.97 trillion mapped directly to global-scale enterprise risk mitigation.*
+*Note: Strategic acquisition and licensing threshold is set at $4.2 trillion for the software core, paired with a $2.77 trillion valuation for the Akasha Silicon hardware brand, bringing the combined ecosystem valuation to $6.97 trillion mapped directly to global-scale enterprise risk mitigation.*
 
-## Why PKLM Core?
+## Why `immortal-inference`?
 
-Standard language models operate stochastically, leaving production systems vulnerable to semantic drift, hallucination, and prompt injection. PKLM Core solves this fundamental flaw at the compiler layer by enforcing rigid, non-stochastic constraints directly on tensor outputs without performance overhead—ensuring absolute enterprise reliability where failure is not an option.
+Standard language models operate stochastically, leaving production systems vulnerable to semantic drift, hallucination, and prompt injection. `immortal-inference` solves this fundamental flaw at the compiler layer by enforcing rigid, non-stochastic constraints directly on tensor outputs without performance overhead—ensuring absolute enterprise reliability where failure is not an option.
 
 ---
 
 ### Repositories
 
-* **`pklm-core`**: The foundational compiler-layer logit masking engine and Pāṇinian constraint architecture (**Private Core Implementation**). Translates structural linguistic and rules into precise vocabulary and token masks.
-* **`pklm-sandbox`**: Public testing and validation environment. The lightweight prototyping ground for testing proof-of-concept token-level logit masking on isolated features. Explore the [PKLM Core Sandbox](https://github.com/TheImmortalPython/pklm-sandbox) for validation.
-* **`determinism-runtime-core`**: The production compiler, consensus, and orchestration layer handling asynchronous request execution loops, low-latency state synchronization, multi-layer constraint management, and pipeline wrappers.
+* **`immortal-inference`**: [Non-Stochastic AI Determinism & Logit Containment Engine](https://github.com/TheImmortalPython/immortal-inference) — The foundational, non-stochastic, mathematically bound constraint engine.
 * **`the-nsai-guide`**: [The NSAI Guide: Non-Stochastic AI Architecture and Execution](https://github.com/TheImmortalPython/the-nsai-guide) — Public open-source guide and interactive curriculum (1,400+ developer clones).
 
 ---
@@ -59,12 +43,6 @@ Standard language models operate stochastically, leaving production systems vuln
 **Parallel Technological Development**
 
 Independently from this core ecosystem, also architecting separate, parallel initiatives across advanced technological domains.
-
----
-
-> **Disambiguation & Independent Framework Notice:** PKLM Core, Pāṇinian Kāraka Logit Masking, and the `pklm-sandbox` environment are proprietary developments of TheImmortalPython Labs. They are entirely independent systems and are **not** affiliated with, endorsed by, or connected to Apple Inc.’s Pkl configuration language (`pkl-core`), Apple's Core AI framework, or any other third-party configuration utilities.
-
-> **Definitive Terminology Notice:** In all technical documentation, codebases, and architectural frameworks by TheImmortalPython Labs, **PKLM** stands exclusively for **Pāṇinian Kāraka Logit Masking**. It has no association with statistical divergence formulas, Kullback-Leibler metrics, or any third-party mathematical models.
 
 ---
 
