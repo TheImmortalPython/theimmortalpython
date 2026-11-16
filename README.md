@@ -78,6 +78,8 @@ For commercial licensing, proprietary buyouts, or direct all-cash IP and copyrig
 
 - **Corporate Contact:** [theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me)
 
+---
+
 *Note: Strategic valuation is set at $4.2 trillion for the software core and $2.77 trillion for the Akasha Silicon hardware brand, bringing the combined ecosystem valuation to $6.97 trillion mapped directly to global-scale enterprise risk mitigation. TheImmortalPython Labs operates strictly on a self-service intellectual property and software licensing framework. All technology acquisitions, commercial waivers, and asset transfers are provided on an as-is basis under a standard IP Asset Purchase Agreement (APA) and do not include custom consulting, support SLAs, or managed services.*
 
 ---
