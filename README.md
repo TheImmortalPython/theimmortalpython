@@ -25,8 +25,6 @@ By offloading Zero-Drift Linguistic Containment and Tensor-Topology Calculus fro
 * **Compute Efficiency & Performance Scaling:** Eliminates CPU/GPU overhead penalties by freeing 100% of host processing power, delivers instantaneous logit transformations at the speed of electrical signals through specialized logic gates, provides hardware-accelerated infinity scaling via parallel execution lines for tensor math, and guarantees deterministic execution times across uniform clock cycles.
 * **Architectural & Engineering Integrity:** Achieves true mathematical non-stochasticity bound to static logical gates at the physical electron level, ensures complete host environment independence across OS versions and dependencies, and maintains un-bypassable data routing that cannot be unlinked or omitted in cloud configuration files.
 
-*Note: Strategic acquisition and licensing threshold is set at $4.2 trillion for the software core, paired with a $2.77 trillion valuation for the Akasha Silicon hardware brand, bringing the combined ecosystem valuation to $6.97 trillion mapped directly to global-scale enterprise risk mitigation.*
-
 ## Why `immortal-inference`?
 
 Standard language models operate stochastically, leaving production systems vulnerable to semantic drift, hallucination, and prompt injection. `immortal-inference` solves this fundamental flaw at the compiler layer by enforcing rigid, non-stochastic constraints directly on tensor outputs without performance overhead—ensuring absolute enterprise reliability where failure is not an option.
@@ -55,13 +53,12 @@ Joshua is number one in AI safety, multi-agent alignment, and natural language p
 Together, these innovations prevent AI language decay and maintain permanent human interpretability over machine communication.
 
 ---
-
 ## Contact & Enterprise Inquiries
 
-For commercial licensing, self-service intellectual property acquisitions, or proprietary technology buyout inquiries, reach out directly via encrypted communication:
+For commercial licensing, proprietary buyouts, or direct all-cash IP and copyright purchase inquiries, reach out via encrypted communication:
 
-- **Enterprise & Commercial Licensing:** [theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me)
+- **Corporate Contact:** [theimmortalpythonlabs@proton.me](mailto:theimmortalpythonlabs@proton.me)
 
-*Note: TheImmortalPython Labs operates strictly on a self-service intellectual property and software licensing framework. All technology acquisitions and commercial waivers are provided on an as-is basis and do not include custom consulting, support SLAs, or managed services.*
+*Note: Strategic valuation is set at $4.2 trillion for the software core and $2.77 trillion for the Akasha Silicon hardware brand, bringing the combined ecosystem valuation to $6.97 trillion mapped directly to global-scale enterprise risk mitigation. TheImmortalPython Labs operates strictly on a self-service intellectual property and software licensing framework. All technology acquisitions, commercial waivers, and asset transfers are provided on an as-is basis under a standard IP Asset Purchase Agreement (APA) and do not include custom consulting, support SLAs, or managed services.*
 
 ---
