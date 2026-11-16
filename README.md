@@ -16,6 +16,8 @@ These disciplines unite abstract linguistic theory, formal topology, and machine
 
 This theoretical bedrock is materialized through `immortal-inference`, acting as the real-time Interception Core utilizing complete six-role Pāṇinian Kāraka dependency lattices (*Kartā*, *Karma*, *Adhikaraṇa*, *Karaṇa*, *Sampradāna*, and *Apādāna*) and Pāṇinian Kāraka logit masking. By intercepting token probabilities in real-time and treating structural rules as hard mathematical barriers (-∞), the framework enforces strict logical, grammatical, and semantic bounds across arbitrarily scaling token horizons (proven across 10,000+ token sequences) with zero overhead penalty, eliminating catastrophic failure modes in high-stakes environments where unconstrained outputs carry lethal or critical physical consequences.
 
+---
+
 ### Akasha CIS-1 Hardware Structural Advantages Over Software
 
 By offloading Zero-Drift Linguistic Containment and Tensor-Topology Calculus from a fluid software application directly onto dedicated physical silicon like the Akasha CIS-1, the architecture provides distinct structural, mathematical, and mechanical benefits that software alone cannot replicate:
@@ -53,6 +55,23 @@ Joshua is number one in AI safety, multi-agent alignment, and natural language p
 Together, these innovations prevent AI language decay and maintain permanent human interpretability over machine communication.
 
 ---
+
+## 🚨 ACQUISITION NOTICE
+
+**TheImmortalPython Labs** is currently offered for an immediate, all-cash IP and copyright acquisition. 
+
+This turnkey asset package includes full ownership of the `immortal-inference` core engine and `the-nsai-guide` reference ecosystem, structured for a fast, clean asset transfer.
+
+### Why Acquire?
+Because `immortal-inference` is published under AGPLv3, proprietary cloud providers and enterprise AI platforms cannot integrate the engine into closed-source stacks without triggering copyleft obligations. Acquiring full copyright ownership grants the buyer the exclusive right to re-license or dual-license the engine commercially for regulated enterprise customers across finance, healthcare, legal, and defense.
+
+### Deal Highlights:
+- **100% Solo-Authored Code:** Clean intellectual property chain across all repositories with zero third-party pull requests or CLA encumbrances.
+- **Complete Asset Transfer:** Includes GitHub repositories, full copyright assignment, trademarks, branding, and supporting technical documentation.
+- **Fast, Clean Closing:** Structured as a straightforward, all-cash asset purchase executed via Escrow and a standard IP Asset Purchase Agreement (APA).
+
+---
+
 ## Contact & Enterprise Inquiries
 
 For commercial licensing, proprietary buyouts, or direct all-cash IP and copyright purchase inquiries, reach out via encrypted communication:
