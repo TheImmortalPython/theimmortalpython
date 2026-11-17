@@ -80,6 +80,6 @@ For commercial licensing, proprietary buyouts, or direct all-cash IP and copyrig
 
 ---
 
-*Note: TheImmortalPython Labs operates strictly on a self-service intellectual property and software licensing framework. All technology acquisitions, commercial waivers, and asset transfers are provided on an as-is basis under a standard IP Asset Purchase Agreement (APA) and do not include custom consulting, support SLAs, or managed services.*
+*Note: TheImmortalPython Labs operates strictly on a self-service model. Commercial software licenses are granted on an as-is basis under our standard Commercial License Agreement, while outright technology acquisitions and asset transfers are governed separately under an IP Asset Purchase Agreement (APA). Neither option includes custom consulting, support SLAs, or managed services.*
 
 ---
