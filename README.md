@@ -36,8 +36,11 @@ Standard language models operate stochastically, leaving production systems vuln
 ### Repositories
 
 * **`immortal-inference`**: [Non-Stochastic AI Determinism & Logit Containment Engine](https://github.com/TheImmortalPython/immortal-inference) — The foundational, non-stochastic, mathematically bound constraint engine.
+* **`stricta-agent`**: [Deterministic Agent Orchestration Runtime](https://github.com/TheImmortalPython/stricta-agent)  — Deterministic agent control plane with Pāṇinian Kāraka role progression, logit containment, ShadowCritic validation, StepSnapshot rollback, and JSONL/SQLite ledger parity.
 * **`the-nsai-guide`**: [The NSAI Guide: Non-Stochastic AI Architecture and Execution](https://github.com/TheImmortalPython/the-nsai-guide) — Public open-source guide and interactive curriculum.
 
+
+| [Deterministic Agent Orchestration Runtime](https://github.com/TheImmortalPython/stricta-agent) 
 ---
 
 **Parallel Technological Development**
