@@ -39,8 +39,6 @@ Standard language models operate stochastically, leaving production systems vuln
 * **`stricta-agent`**: [Deterministic Agent Orchestration Runtime](https://github.com/TheImmortalPython/stricta-agent)  — Deterministic agent control plane with Pāṇinian Kāraka role progression, logit containment, ShadowCritic validation, StepSnapshot rollback, and JSONL/SQLite ledger parity.
 * **`the-nsai-guide`**: [The NSAI Guide: Non-Stochastic AI Architecture and Execution](https://github.com/TheImmortalPython/the-nsai-guide) — Public open-source guide and interactive curriculum.
 
-
-| [Deterministic Agent Orchestration Runtime](https://github.com/TheImmortalPython/stricta-agent) 
 ---
 
 **Parallel Technological Development**
